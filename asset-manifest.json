@@ -13,8 +13,8 @@
     "static/js/5.a8b47f49.chunk.js": "/diary_mock/static/js/5.a8b47f49.chunk.js",
     "static/js/5.a8b47f49.chunk.js.map": "/diary_mock/static/js/5.a8b47f49.chunk.js.map",
     "main.css": "/diary_mock/static/css/main.0a15b170.chunk.css",
-    "main.js": "/diary_mock/static/js/main.0ac3ec57.chunk.js",
-    "main.js.map": "/diary_mock/static/js/main.0ac3ec57.chunk.js.map",
+    "main.js": "/diary_mock/static/js/main.a7585532.chunk.js",
+    "main.js.map": "/diary_mock/static/js/main.a7585532.chunk.js.map",
     "runtime-main.js": "/diary_mock/static/js/runtime-main.726bb4c5.js",
     "runtime-main.js.map": "/diary_mock/static/js/runtime-main.726bb4c5.js.map",
     "static/js/8.dae57042.chunk.js": "/diary_mock/static/js/8.dae57042.chunk.js",
@@ -196,6 +196,6 @@
     "static/css/40.9149985d.chunk.css",
     "static/js/40.2f5adc9a.chunk.js",
     "static/css/main.0a15b170.chunk.css",
-    "static/js/main.0ac3ec57.chunk.js"
+    "static/js/main.a7585532.chunk.js"
   ]
 }
